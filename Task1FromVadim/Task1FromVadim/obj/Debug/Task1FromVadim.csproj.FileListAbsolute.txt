@@ -1,0 +1,6 @@
+C:\Users\Nastya\VadimTasks\Task1FromVadim\Task1FromVadim\bin\Debug\Task1FromVadim.exe.config
+C:\Users\Nastya\VadimTasks\Task1FromVadim\Task1FromVadim\bin\Debug\Task1FromVadim.exe
+C:\Users\Nastya\VadimTasks\Task1FromVadim\Task1FromVadim\bin\Debug\Task1FromVadim.pdb
+C:\Users\Nastya\VadimTasks\Task1FromVadim\Task1FromVadim\obj\Debug\Task1FromVadim.csprojAssemblyReference.cache
+C:\Users\Nastya\VadimTasks\Task1FromVadim\Task1FromVadim\obj\Debug\Task1FromVadim.exe
+C:\Users\Nastya\VadimTasks\Task1FromVadim\Task1FromVadim\obj\Debug\Task1FromVadim.pdb
